@@ -5,7 +5,7 @@
   "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.13.wgc",
   "patchSha256": "298c32f873b110f60c3182d5f6f4e8b32082b684c5f9b39a2d66227330ee083d",
   "releaseNotes": "",
-  "updatedAt": "2026-11-19T21:13:42.098Z",
+  "updatedAt": "2026-11-19T21:14:01.485Z",
   "killSwitch": false,
   "killMessage": "",
   "globalPause": false,
@@ -14,12 +14,13 @@
   "forceRollback": false,
   "syncPresetsToken": "1795117676581",
   "forceRestartToken": "1795117826801",
-  "supportWebhookEnc": "WGC1S:mW7u8dCPL1RJphOciL2ZwcqwP5VEOcLVGVqjjK9fGRyjJdvei0/dbVkFR/xlDPefCIYo01faPFLgQrGbcHNRQwBWpqtf9uPKZAvj0ZcAGF/MCvciCbFD1e4vIIzZnte675FXRHRk2eT0GoHK7bThlIILliymVe8gcLnl7m3yXdyDc7tUqAo3pxcPcXD9BD5D+yk0fN8=",
+  "supportWebhookEnc": "WGC1S:l1rQjMqP2MvzoZ1BBtQ8SiCjfvFZgDt0knExX7tiMromvj34Q/F9sWUGyQbj/WuJNH5dCimt/gqSH88Wgz7FCuyWNJKnxsMSazZnGnddmJMoe67YlBcWZozLtyC6gOB5Cqx6p0sVaJ7foMlkBZlMU+0Uj/Vcb3TpsQ+l+JTh3E4FZOkjIpsTkmHN7GowLG8LYt4ntCw=",
   "allowedHwids": {
     "WGC-DC48-9F2A-4843-C5D5": {
       "name": "Fern",
       "active": true,
       "features": [
+        "STEALTH",
         "DISCORD_BOT",
         "BAG_AUTO_TRASH",
         "MARKET_MANUAL"
