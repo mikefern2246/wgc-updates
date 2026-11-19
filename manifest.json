@@ -5,7 +5,7 @@
   "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.12.wgc",
   "patchSha256": "f0b1babc61f132620a3f0e8557be1f42be16a5e3795833c6dc6525227532937c",
   "releaseNotes": "",
-  "updatedAt": "2026-11-19T20:57:29.251Z",
+  "updatedAt": "2026-11-19T20:57:37.966Z",
   "killSwitch": false,
   "killMessage": "",
   "globalPause": false,
@@ -14,6 +14,5 @@
   "forceRollback": false,
   "syncPresetsToken": "1795117676581",
   "forceRestartToken": "1795117826801",
-  "supportWebhookEnc": "WGC1S:j6HIx1QNCmrv5rDwIgwoFLexNi7NYE3hzTQf7OaytiXSlyjs2Im0K+3U6cBFhCUk13tZn5scCUTp+yvsQh7eBFAZhc3rEa4HRGrT6UPJhD9TP8YvZQWNHJPfKlSSjVRyt+eEO1uzF5AS++D8l+iY/tMzz3vRvAIHo3a00ohGmcz32V/69TQDsi+OhAoErnshj8UmUEw=",
   "allowedHwids": {}
 }
