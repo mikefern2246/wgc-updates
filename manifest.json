@@ -1,11 +1,11 @@
 {
-  "latestVersion": "11.0.6",
+  "latestVersion": "11.0.7",
   "minRequiredVersion": "11.0.0",
-  "patchPath": "patches/friend-core-v11.0.6.wgc",
-  "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.6.wgc",
-  "patchSha256": "d57cd4fa50c56f30cbb63a3f40e7917f0c660dcabc9c25359f21150c1096e0c5",
+  "patchPath": "patches/friend-core-v11.0.7.wgc",
+  "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.7.wgc",
+  "patchSha256": "0d67dfaef2ac845acb5e1ca6caa1469756be8831522011b3cd6f9c125b0d209c",
   "releaseNotes": "",
-  "updatedAt": "2026-11-19T18:31:44.587Z",
+  "updatedAt": "2026-11-19T18:33:04.307Z",
   "killSwitch": false,
   "killMessage": "",
   "allowedHwids": {
