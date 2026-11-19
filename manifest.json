@@ -5,13 +5,13 @@
   "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.2.wgc",
   "patchSha256": "21f96173899b2264bfe5a68e9511c68a93ab750f93e5fecb7d793971f0f77f03",
   "releaseNotes": "",
-  "updatedAt": "2026-11-19T18:17:33.556Z",
+  "updatedAt": "2026-11-19T18:18:14.897Z",
   "killSwitch": false,
   "killMessage": "",
   "allowedHwids": {
     "WGC-DC48-9F2A-4843-C5D5": {
       "name": "Fern",
-      "active": false,
+      "active": true,
       "features": [
         "STEALTH",
         "DISCORD_BOT",
