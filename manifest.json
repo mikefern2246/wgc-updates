@@ -5,7 +5,7 @@
   "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.20.wgc",
   "patchSha256": "38c676e2b0e73c250f45a17a2f6e3d885b1671bf7b0bc2db94c55c7f4dff81cd",
   "releaseNotes": "",
-  "updatedAt": "2026-11-20T19:02:49.620Z",
+  "updatedAt": "2026-11-20T19:18:22.173Z",
   "killSwitch": false,
   "killMessage": "",
   "globalPause": false,
@@ -14,7 +14,7 @@
   "forceRollback": false,
   "syncPresetsToken": "1795117676581",
   "forceRestartToken": "1795117826801",
-  "supportWebhookEnc": "WGC1S:1JYneaWrWZfCC9ny/A6/0BFB88uOkY8fG6a2v4B4cYmGUZqqoRoqcS5Qnyy+gI2zUZdWMkAN9zBYAFjF+5Z6rlWb0P5q6kBbRt2eJWrNpl7K/3utg1bZAVAISNcaQdrNaHmxjVOUb0yv3FS18JOElmREuqU1Q0ECF6lDxPxSQpk+stDglMokRByuekBSJdErawlKgiQ=",
+  "supportWebhookEnc": "WGC1S:lVtSFwaG9tD1zgQ1dWvJOpC2rO70xJhOrCsqzXkzdVSYcEUcfMBuJYRQadhhXQLjrxrAdlyLIWD5lmmp8nSJRfAmc6dV7Ds6gNEZC8bOcUZ+KMoEieP6tWj/Phmw3/iGcrCqgW519cbxO4FKBYWLeH6C3xM9EKbaNkU9eWzLkSgjmrXdReorPMhtrGmxtM0kez1Qm7M=",
   "allowedHwids": {
     "WGC-DC48-9F2A-4843-C5D5": {
       "name": "Fern",
@@ -24,7 +24,8 @@
         "DISCORD_BOT",
         "BAG_AUTO_TRASH",
         "MARKET_MANUAL"
-      ]
+      ],
+      "forceRestartToken": "1795202302171"
     },
     "WGC-FB3B-5356-83EC-CC3B": {
       "name": "loveswag",
