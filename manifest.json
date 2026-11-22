@@ -1,11 +1,11 @@
 {
-  "latestVersion": "11.0.37",
+  "latestVersion": "11.0.38",
   "minRequiredVersion": "11.0.0",
-  "patchPath": "patches/friend-core-v11.0.37.wgc",
-  "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.37.wgc",
-  "patchSha256": "05960da7c953df8421c76827a77f881f89bd29bb23fd6c642e9cb8a258651210",
+  "patchPath": "patches/friend-core-v11.0.38.wgc",
+  "patchUrl": "https://raw.githubusercontent.com/mikefern2246/wgc-updates/main/patches/friend-core-v11.0.38.wgc",
+  "patchSha256": "1a3a20cb30a5d426e0631810bed3fab0f70520ff7269deabebff6331d0deed84",
   "releaseNotes": "",
-  "updatedAt": "2026-11-22T16:34:23.456Z",
+  "updatedAt": "2026-11-22T17:00:44.137Z",
   "killSwitch": false,
   "killMessage": "",
   "globalPause": false,
@@ -14,7 +14,7 @@
   "forceRollback": false,
   "syncPresetsToken": "1795117676581",
   "forceRestartToken": "1795117826801",
-  "supportWebhookEnc": "WGC1S:AovLI3HPbhHqdkhqaIvu4CujGXF6M9Sy721J4tkd4kH5dlz0j+oxVIbj2x2PVhCKqK3+ZHGZsAjsiD8SOKZldQsXVmewQlscjRKMahwcxmZCxqDcaDdTGsjQfAS/iOP1sMBbiUoXg+5cW1+0tt1ZvO03zTtkJYO1KTDn/kC4f5bVi9F4SU6Y9178/7YlnQbjuD8oGgc=",
+  "supportWebhookEnc": "WGC1S:iL1nbpjUx0ihCiH2HYZnC2b06BoxBwSSwJs5GaQKn8jmPx2Jqt1bi7292nD9yQ1Qo5CrlTGoVAquVsNtdS7r8bRKiwxMk1LE8fW1u6mWSmbO9EeYr4g9aUHOB9aZcxLGyUCbgChVkOm5qf2L8+w3HWg9VCRAF+Xopfu9lwc71aMQ6wxEUyZ2VB0djU4Yxfix0+A6FK8=",
   "allowedHwids": {
     "WGC-DC48-9F2A-4843-C5D5": {
       "name": "Fern",
